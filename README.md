@@ -7,7 +7,7 @@
 - Remove task
 - Mark task
 
-#Commands
+# Commands
 - todo add task - Adds new task 
 - todo rm task - removes a task
 - todo ls - lists all task
